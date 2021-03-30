@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: rgb(255, 153, 51);
+    background: linear-gradient(90deg, rgba(255, 153, 51, 1) 0%, rgba(255, 255, 255, 1) 35%, #138808 100%);
+    font-size: x-large;
+
+}
+.container {
+    text-align: center;
+}
+
+#anything {
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.img-responsive{
+    height:300px;
+    width:250px;
+}
+.img{
+    margin-top: 40px;
+    height: 225px;
+    margin-left: 25px;
+}
+.imgt{
+    margin-top: 40px;
+    height: 225px;
+    margin-left: 25px;
+    margin-bottom: 40px;
+}
